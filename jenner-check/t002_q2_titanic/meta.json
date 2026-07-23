@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_q2_titanic",
+  "source_file": "Assignment1 (1).sas",
+  "source_blob_sha": "dbe263231b0fd8586cbd655978b408c9399be6c0",
+  "source_commit": "e0cd2c784c2e61ed664957aa284c20a5c18b9c70",
+  "notes": "Question 2: the Titanic exploration steps (PROC CONTENTS, PROC PRINT OBS=10, PROC FREQ tables pclass, PROC MEANS mean age). Binary Canvas workbook titanic3.xlsx replaced with a 14-row inline Titanic sample; the four analysis PROCs are unchanged."
+}

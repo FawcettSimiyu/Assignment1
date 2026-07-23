@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_q1_organization",
+  "source_file": "Assignment1 (1).sas",
+  "source_blob_sha": "dbe263231b0fd8586cbd655978b408c9399be6c0",
+  "source_commit": "e0cd2c784c2e61ed664957aa284c20a5c18b9c70",
+  "notes": "Question 1: colon-delimited read with DSD DLM=':' MISSOVER + PROC PRINT. External Canvas file organization.txt replaced with a 4-row inline sample matching the README (double-colon missing values); INFILE options and INPUT statement kept verbatim."
+}

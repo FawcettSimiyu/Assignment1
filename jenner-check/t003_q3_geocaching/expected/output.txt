@@ -1,0 +1,12 @@
+
+  Obs         Name  LongDeg  LongMin  LatDeg  LatMin
+-----  -----------  -------  -------  ------  ------
+    1  Cache Alpha       82     25.1      37    46.2
+    2  Hidden Rock       71     3.45      42    21.9
+    3  River Bend        80       12      25    47.5
+
+  Obs                  Name  LongDeg  LongMin  LatDeg  LatMin
+-----  --------------------  -------  -------  ------  ------
+    1  Cache Alpha                82     25.1      37    46.2
+    2  Hidden Rock                71     3.45      42    21.9
+    3  River Bend                 80       12      25    47.5

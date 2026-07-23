@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_q3_geocaching",
+  "source_file": "Assignment1 (1).sas",
+  "source_blob_sha": "dbe263231b0fd8586cbd655978b408c9399be6c0",
+  "source_commit": "e0cd2c784c2e61ed664957aa284c20a5c18b9c70",
+  "notes": "Question 3: the same geocaching layout read two ways (column input $1-20/21-22/... and formatted column-pointer input @1 $CHAR20./@21 2./...). Canvas file geocaching.txt replaced with a 3-row inline sample aligned to the author's exact column positions; both INPUT statements kept verbatim."
+}
