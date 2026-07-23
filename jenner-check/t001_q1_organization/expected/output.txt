@@ -1,0 +1,7 @@
+
+  Obs  LastName  EmpNo  Salary
+-----  --------  -----  ------
+    1  Smith     E1001   52000
+    2  Johnson           48000
+    3  Williams  E1003       .
+    4  Brown     E1004   61000

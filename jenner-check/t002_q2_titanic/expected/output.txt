@@ -1,0 +1,51 @@
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: Titanic
+Observations:  14
+Variables:     6
+
+Variables (in alphabetical order):
+
+  #  Variable  Type    Len  Format  Label
+---  --------  ----  -----  ------  -----
+  1  age        Num      8          
+  2  embarked  Char    200          
+  3  fare       Num      8          
+  4  pclass     Num      8          
+  5  sex       Char    200          
+  6  survived   Num      8          
+
+-------------------------------------------------------------------------------
+
+
+  Obs  pclass  survived     sex   age    fare  embarked
+-----  ------  --------  ------  ----  ------  --------
+    1       1         1  female    29  211.34  S
+    2       1         0  male    30.5   26.55  C
+    3       1         1  male      48   76.29  C
+    4       2         0  male      28      13  S
+    5       2         1  female    34      21  S
+    6       2         0  female    40   15.75  Q
+    7       3         0  male      22    7.25  S
+    8       3         1  female    27    7.92  S
+    9       3         0  male      19    8.05  S
+   10       3         1  male      26    7.88  Q
+
+... 4 more observations (showing 10 of 14)
+
+                                                   The FREQ Procedure
+
+                                    Cumulative    Cumulative
+pclass    Frequency    Percent     Frequency      Percent
+---------------------------------------------------------------
+1                 4     28.57            4        28.57
+2                 4     28.57            8        57.14
+3                 6     42.86           14       100.00
+                                                  The MEANS Procedure
+
+ Variable           Mean
+ -----------------------
+ age          33.8214286
+ -----------------------

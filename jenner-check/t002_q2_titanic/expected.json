@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-23T14:41:22Z",
+  "_captured_run_id": "r_d18f478818fb45709ea235031d7a9503",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote Titanic (14 rows, 6 columns).",
+    "NOTE: PROC CONTENTS completed: 14 observations, 6 variables",
+    "NOTE: PROC PRINT completed: 10 observations printed, 6 variables",
+    "NOTE: PROC FREQ statement used.",
+    "NOTE: PROC MEANS statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

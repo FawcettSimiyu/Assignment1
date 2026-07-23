@@ -1,0 +1,25 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA CACHE
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote CACHE (3 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=CACHE
+
+NOTE: PROC PRINT completed: 3 observations printed, 5 variables
+NOTE: DATA CACHE2
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote CACHE2 (3 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=CACHE2
+
+NOTE: PROC PRINT completed: 3 observations printed, 5 variables
